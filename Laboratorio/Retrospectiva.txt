@@ -1,0 +1,17 @@
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+El trabajo entero me tardo aproximadamente 5-6 horas
+
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Terminado, y eso, el punto 5 ayudaron a realizarlo otros grupos de lo contrario estaria sin finalizar
+
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+Hacer el programa requerido por el punto 5, fue el que mas tiempo llevo y que funcionara fue mucha satisfaccion
+
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+Acordarse de el uso de funciones, como las de orden superior. Ademas de la logica de algunos puntos que aunque era sencilla, tardaba un poco entendiendola
+
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Trabaje solo, pero pudo haber salido mucho mas rapido con una practica previa o refuerzo de conceptos pasados
+
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+No se si cuente como una referencia porque exactamente no revisaba de donde sacaba la informacion, pero hacia la pregunta exacta a google y la ia de gemini me la respondia, por ejemplo, las funciones de orden superior, y ejemplos de uso
